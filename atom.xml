@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Steren's talks</title>
+  <subtitle>A selection of my public talks</subtitle>
+  <link href="https://talks.steren.fr/atom.xml" rel="self" />
+  <link href="https://talks.steren.fr/" />
+  <id>https://talks.steren.fr/</id>
+  <author>
+    <name>Steren Giannini</name>
+    <uri>https://steren.fr</uri>
+  </author>
+  <icon>/icon.svg</icon>
+  <updated>2021-09-17T12:01:00Z</updated>
+
+  <entry>
+    <id>https://www.youtube.com/watch?v=os2FPR9WjY0</id>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=os2FPR9WjY0" />
+    <title>Cloud Run: What's new?</title>
+    <updated>2020-09-15T00:00:00Z</updated>
+    <summary>Cloud Next 2020</summary>
+  </entry>
+
+  <entry>
+    <id>https://www.youtube.com/watch?v=W16iHlo2TuE?t=3976</id>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=W16iHlo2TuE?t=3976" />
+    <title>Developer Keynote</title>
+    <updated>2019-04-11T00:00:00Z</updated>
+    <summary>Cloud Next 2019</summary>
+  </entry>
+  
+  <entry>
+    <id>https://www.youtube.com/watch?v=xVuuvZkYiNM</id>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=xVuuvZkYiNM" />
+    <title>Run Containers on GCP's Serverless Infrastructure</title>
+    <updated>2019-04-11T00:00:00Z</updated>
+    <summary>Cloud Next 2019</summary>
+  </entry>
+  
+  <entry>
+    <id>https://www.youtube.com/watch?v=16vANkKxoAU</id>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=16vANkKxoAU" />
+    <title>Container Once, Serverless Anywhere</title>
+    <updated>2019-04-11T00:00:00Z</updated>
+    <summary>Cloud Next 2019</summary>
+  </entry>
+  
+  <entry>
+    <id>https://www.youtube.com/watch?v=ogexnfng_hE</id>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=ogexnfng_hE" />
+    <title>Deploying serverless Node.js microservices</title>
+    <updated>2018-05-10T00:00:00Z</updated>
+    <summary>Google I/O 2018</summary>
+  </entry>
+
+</feed>
