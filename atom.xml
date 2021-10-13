@@ -14,6 +14,22 @@
   <updated>2021-09-17T12:01:00Z</updated>
 
   <entry>
+    <id>https://www.youtube.com/watch?v=78cGDCGdajE</id>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=78cGDCGdajE" />
+    <title>How to measure, report, and reduce your application's carbon emissions</title>
+    <updated>2021-10-12T00:00:00Z</updated>
+    <summary>Cloud Next 2021</summary>
+  </entry>
+
+    <entry>
+    <id>https://www.youtube.com/watch?v=KYBVjl6reXc</id>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=KYBVjl6reXc" />
+    <title>What's new in serverless?</title>
+    <updated>2021-10-12T01:00:00Z</updated>
+    <summary>Cloud Next 2021</summary>
+  </entry>
+
+  <entry>
     <id>https://www.youtube.com/watch?v=os2FPR9WjY0</id>
     <link rel="alternate" href="https://www.youtube.com/watch?v=os2FPR9WjY0" />
     <title>Cloud Run: What's new?</title>
