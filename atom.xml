@@ -21,6 +21,14 @@
     <summary>Cloud Next 2021</summary>
   </entry>
 
+  <entry>
+    <id>https://softwareengineeringdaily.com/2021/08/12/cloud-run-serverless-applications-with-steren-giannini/</id>
+    <link rel="alternate" href="https://softwareengineeringdaily.com/2021/08/12/cloud-run-serverless-applications-with-steren-giannini/" />
+    <title>Cloud Run: Serverless Applications with Steren Giannini</title>
+    <updated>2021-08-01T00:00:00Z</updated>
+    <summary>Software Engineering Daily</summary>
+  </entry>
+
     <entry>
     <id>https://www.youtube.com/watch?v=KYBVjl6reXc</id>
     <link rel="alternate" href="https://www.youtube.com/watch?v=KYBVjl6reXc" />
@@ -35,6 +43,22 @@
     <title>Cloud Run: What's new?</title>
     <updated>2020-09-15T00:00:00Z</updated>
     <summary>Cloud Next 2020</summary>
+  </entry>
+
+  <entry>
+    <id>https://softwareengineeringdaily.com/2019/04/22/serverless-runtimes-with-steren-giannini/</id>
+    <link rel="alternate" href="https://softwareengineeringdaily.com/2019/04/22/serverless-runtimes-with-steren-giannini/" />
+    <title>Serverless Runtimes with Steren Giannini</title>
+    <updated>2019-04-11T02:00:00Z</updated>
+    <summary>Software Engineering Daily</summary>
+  </entry>
+
+  <entry>
+    <id>https://www.gcppodcast.com/post/episode-173-cloud-run/</id>
+    <link rel="alternate" href="https://www.gcppodcast.com/post/episode-173-cloud-run/" />
+    <title>Cloud Run</title>
+    <updated>2019-04-11T01:00:00Z</updated>
+    <summary>Google Cloud Platform podcast</summary>
   </entry>
 
   <entry>
@@ -61,6 +85,14 @@
     <summary>Cloud Next 2019</summary>
   </entry>
   
+  <entry>
+    <id>https://www.gcppodcast.com/post/episode-143-whats-new-in-app-engine-with-steren-giannini-and-stewart-reichling/</id>
+    <link rel="alternate" href="https://www.gcppodcast.com/post/episode-143-whats-new-in-app-engine-with-steren-giannini-and-stewart-reichling/" />
+    <title>What's new in App Engine?</title>
+    <updated>2018-06-01T00:00:00Z</updated>
+    <summary>Google Cloud Platform podcast</summary>
+  </entry>
+
   <entry>
     <id>https://www.youtube.com/watch?v=ogexnfng_hE</id>
     <link rel="alternate" href="https://www.youtube.com/watch?v=ogexnfng_hE" />
