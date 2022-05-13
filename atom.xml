@@ -14,6 +14,14 @@
   <updated>2021-09-17T12:01:00Z</updated>
 
   <entry>
+    <id>https://www.youtube.com/watch?v=7ByPslu4ewA</id>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=7ByPslu4ewA" />
+    <title>Running jobs on serverless with Cloud Run jobs</title>
+    <updated>2022-05-11T00:00:00Z</updated>
+    <summary>Cloud Next 2021</summary>
+  </entry>
+
+  <entry>
     <id>https://softwareengineeringdaily.com/2022/03/25/cloud-carbon-footprint-with-steren-giannini/</id>
     <link rel="alternate" href="https://softwareengineeringdaily.com/2022/03/25/cloud-carbon-footprint-with-steren-giannini/" />
     <title>Cloud Carbon Footprint with Steren Giannin</title>
