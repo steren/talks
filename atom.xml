@@ -11,7 +11,15 @@
     <uri>https://steren.fr</uri>
   </author>
   <icon>/icon.svg</icon>
-  <updated>2021-09-17T12:01:00Z</updated>
+  <updated>2022-06-23T12:01:00Z</updated>
+
+  <entry>
+    <id>https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/google-cloud-run-satisfaction-and-scalability-with-steren-giannini/</id>
+    <link rel="alternate" href="https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/google-cloud-run-satisfaction-and-scalability-with-steren-giannini/" />
+    <title>Google Cloud Run, Satisfaction, and Scalability with Steren Giannini</title>
+    <updated>2022-06-23T00:00:00Z</updated>
+    <summary>Screaming in the cloud</summary>
+  </entry>
 
   <entry>
     <id>https://www.youtube.com/watch?v=7ByPslu4ewA</id>
