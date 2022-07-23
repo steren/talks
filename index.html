@@ -92,12 +92,14 @@
 			text-decoration: none;
 		}
 
-		#filters {
+		menu {
 			display: none;
+			padding-inline-start: 0;
+			text-align: center;
 		}
 
 		@supports(selector(:has(*))) {
-			#filters {
+			menu {
 				display: block;
 			}
 		}
@@ -118,7 +120,7 @@
 		</h1>
 		<p>A selection of my public talks</p>
 
-		<menu id="filters">
+		<menu>
 			<input type="checkbox" class="filter" id="talks" checked>		  <label for="talks">Talks</label>
 			<input type="checkbox" class="filter" id="podcasts" checked>	<label for="podcasts">Podcasts</label>
 		</menu>
