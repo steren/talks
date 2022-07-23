@@ -91,6 +91,23 @@
 				color: #FFFFFF;
 			}
 		}
+
+		#filters {
+			display: none;
+		}
+
+		@supports(selector(:has(*))) {
+			#filters {
+				display: block;
+			}
+		}
+
+		body:has(#talks:not(:checked)) [type='talk'] {
+			display: none;
+		}
+		body:has(#podcasts:not(:checked)) [type='podcast'] {
+			display: none;
+		}
 	</style>
 </head>
 
@@ -100,6 +117,11 @@
 			Steren's talks
 		</h1>
 		<p>A selection of my public talks</p>
+
+		<menu id="filters">
+			<input type="checkbox" class="filter" id="talks" checked>		  <label for="talks">Talks</label>
+			<input type="checkbox" class="filter" id="podcasts" checked>	<label for="podcasts">Podcasts</label>
+		</menu>
 	</header>
 
 	<main>
