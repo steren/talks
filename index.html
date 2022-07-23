@@ -67,9 +67,12 @@
 			padding: 0;
 		}
 
+		.talks {
+			--element-width: min(100vw, 400px);
+		}
 		.talks li {
 			list-style-type: none;
-			max-width: 400px;
+			max-width: var(--element-width);
 			max-height: 300px;
 		}
 
@@ -78,7 +81,7 @@
 		}
 
 		.talks img {
-			width: 100%;
+			width: var(--element-width);
 			height: 225px;
 			object-fit: cover;
 		}
