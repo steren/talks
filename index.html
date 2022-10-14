@@ -107,6 +107,9 @@
 			}
 		}
 
+		body:has(#keynotes:not(:checked)) [type='keynote'] {
+			display: none;
+		}
 		body:has(#talks:not(:checked)) [type='talk'] {
 			display: none;
 		}
@@ -124,6 +127,7 @@
 		<p>A selection of my public talks</p>
 
 		<menu>
+			<input type="checkbox" class="filter" id="keynotes" checked>	<label for="keynotes">Keynotes</label>
 			<input type="checkbox" class="filter" id="talks" checked>		  <label for="talks">Talks</label>
 			<input type="checkbox" class="filter" id="podcasts" checked>	<label for="podcasts">Podcasts</label>
 		</menu>
@@ -131,6 +135,32 @@
 
 	<main>
 		<ol class="talks">
+
+			<li type="keynote">
+				<a href="https://www.youtube.com/watch?v=yTYDR1fRUhI&t=2480" alt="Video thumbnail">
+					<figure>
+						<img src="images/next-2022-dev-keynote.webp">
+						<figcaption>
+							Developer Keynote
+							<br>
+							<small>Cloud Next 2022</small>
+						</figcaption>
+					</figure>
+				</a>
+			</li>
+
+			<li type="talk">
+				<a href="https://www.youtube.com/watch?v=0ANQqEYvclQ">
+					<figure>
+						<img src="https://img.youtube.com/vi/0ANQqEYvclQ/hqdefault.jpg" alt="Video thumbnail">
+						<figcaption>
+							7 new features that help you build modern apps with less complexity
+							<br>
+							<small>Cloud Next 2022</small>
+						</figcaption>
+					</figure>
+				</a>
+			</li>
 
 			<li type="podcast">
 				<a href="https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/google-cloud-carbon-footprint-with-steren-giannini/">
@@ -262,7 +292,7 @@
 				</a>
 			</li>
 
-			<li type="talk">
+			<li type="keynote">
 				<a href="https://www.youtube.com/watch?v=W16iHlo2TuE?t=3976" alt="Video thumbnail">
 					<figure>
 						<img src="images/next-2019-dev-keynote.webp">

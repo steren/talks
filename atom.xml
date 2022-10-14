@@ -11,7 +11,23 @@
     <uri>https://steren.fr</uri>
   </author>
   <icon>/icon.svg</icon>
-  <updated>2022-06-23T12:01:00Z</updated>
+  <updated>2022-10-13T12:01:00Z</updated>
+
+  <entry>
+    <id>https://www.youtube.com/watch?v=yTYDR1fRUhI&t=2480</id>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=yTYDR1fRUhI&t=2480" />
+    <title>Developer Keynote</title>
+    <updated>2022-05-11T00:00:00Z</updated>
+    <summary>Cloud Next 2022</summary>
+  </entry>
+
+  <entry>
+    <id>https://www.youtube.com/watch?v=7ByPslu4ewA</id>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=0ANQqEYvclQ" />
+    <title>7 new features that help you build modern apps with less complexity</title>
+    <updated>2022-05-11T00:00:00Z</updated>
+    <summary>Cloud Next 2022</summary>
+  </entry>
 
   <entry>
     <id>https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/google-cloud-carbon-footprint-with-steren-giannini/</id>
