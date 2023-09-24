@@ -11,7 +11,15 @@
     <uri>https://steren.fr</uri>
   </author>
   <icon>/icon.svg</icon>
-  <updated>2022-10-13T12:01:00Z</updated>
+  <updated>2023-09-24T12:01:00Z</updated>
+
+  <entry>
+    <id>https://www.youtube.com/watch?v=xQAsT-0VSJA&t=2022</id>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=xQAsT-0VSJA&t=2022" />
+    <title>Cloud Run and GKE for faster application development</title>
+    <updated>2023-08-30T00:00:00Z</updated>
+    <summary>Cloud Next 2023</summary>
+  </entry>
 
   <entry>
     <id>https://www.youtube.com/watch?v=yTYDR1fRUhI&t=2480</id>
