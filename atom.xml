@@ -11,14 +11,14 @@
     <uri>https://steren.fr</uri>
   </author>
   <icon>/icon.svg</icon>
-  <updated>2023-09-24T12:01:00Z</updated>
+  <updated>2024-04-11T12:01:00Z</updated>
 
   <entry>
-    <id>https://www.youtube.com/watch?v=xQAsT-0VSJA&t=2022</id>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=xQAsT-0VSJA&t=2022" />
-    <title>Cloud Run and GKE for faster application development</title>
-    <updated>2023-08-30T00:00:00Z</updated>
-    <summary>Cloud Next 2023</summary>
+    <id>https://www.youtube.com/watch?v=l7tNx52bnsc</id>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=l7tNx52bnsc" />
+    <title>Building generative AI apps on Google Cloud with LangChain</title>
+    <updated>2024-04-10T00:00:00Z</updated>
+    <summary>Cloud Next 2024</summary>
   </entry>
 
   <entry>
