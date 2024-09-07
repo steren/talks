@@ -11,7 +11,15 @@
     <uri>https://steren.fr</uri>
   </author>
   <icon>/icon.svg</icon>
-  <updated>2024-04-11T12:01:00Z</updated>
+  <updated>2024-09-06T12:01:00Z</updated>
+
+  <entry>
+    <id>https://www.youtube.com/watch?v=mMFOmkFLgbc</id>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=mMFOmkFLgbc" />
+    <title>Run AI with Cloud Run</title>
+    <updated>2024-08-21T00:00:00Z</updated>
+    <summary>Cloud Run launch event 2024</summary>
+  </entry>
 
   <entry>
     <id>https://www.youtube.com/watch?v=l7tNx52bnsc</id>
