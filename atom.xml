@@ -11,7 +11,23 @@
     <uri>https://steren.fr</uri>
   </author>
   <icon>/icon.svg</icon>
-  <updated>2024-09-06T12:01:00Z</updated>
+  <updated>2025-04-15T00:00:00Z</updated>
+
+  <entry>
+    <id>https://www.youtube.com/watch?v=GwL8e5Z1tl4</id>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=GwL8e5Z1tl4" />
+    <title>Build AI agents on Cloud Run</title>
+    <updated>2025-04-12T00:00:00Z</updated>
+    <summary>Cloud Next 2025</summary>
+  </entry>
+
+  <entry>
+    <id>https://www.youtube.com/watch?v=PWPvX25R6dM</id>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=PWPvX25R6dM" />
+    <title>What’s new in Cloud Run</title>
+    <updated>2025-04-10T00:00:00Z</updated>
+    <summary>Cloud Next 2025</summary>
+  </entry>
 
   <entry>
     <id>https://www.youtube.com/watch?v=sAFuHhQPKJk</id>
