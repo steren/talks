@@ -11,7 +11,15 @@
     <uri>https://steren.fr</uri>
   </author>
   <icon>/icon.svg</icon>
-  <updated>2025-04-15T00:00:00Z</updated>
+  <updated>2025-05-20T00:00:00Z</updated>
+
+  <entry>
+    <id>https://www.youtube.com/watch?v=8rlNdKywldQ</id>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=8rlNdKywldQ" />
+    <title>Building AI agents on Google Cloud</title>
+    <updated>2025-05-21T00:00:00Z</updated>
+    <summary>Google I/O 2025</summary>
+  </entry>
 
   <entry>
     <id>https://www.youtube.com/watch?v=GwL8e5Z1tl4</id>
