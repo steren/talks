@@ -11,7 +11,15 @@
     <uri>https://steren.fr</uri>
   </author>
   <icon>/icon.svg</icon>
-  <updated>2025-05-20T00:00:00Z</updated>
+  <updated>2026-04-22T00:00:00Z</updated>
+
+  <entry>
+    <id>https://www.youtube.com/watch?v=AoisAy_LGpI</id>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=AoisAy_LGpI" />
+    <title>What's new in Cloud Run</title>
+    <updated>2026-04-22T00:00:00Z</updated>
+    <summary>Cloud Next 2026</summary>
+  </entry>
 
   <entry>
     <id>https://www.youtube.com/watch?v=8rlNdKywldQ</id>
