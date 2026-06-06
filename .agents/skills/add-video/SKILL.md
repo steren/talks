@@ -1,10 +1,15 @@
+---
+name: add-video
+description: Instructions for adding a new video (talk, keynote, or podcast) to the repository
+---
+
 # Adding a New Video
 
-To add a new video (talk, keynote, or podcast) to this repository, you need to update two files: `index.html` and `atom.xml`. 
+To add a new video (talk, keynote, or podcast) to this repository, you need to update two files: [index.html](../../../index.html) and [atom.xml](../../../atom.xml). 
 
 ## 1. Update `index.html`
 
-Add a new `<li>` element inside the `<ol class="talks">` list. The new entry should be added at the **top** of the list (right after `<ol class="talks">`).
+Add a new `<li>` element inside the `<ol class="talks">` list in [index.html](../../../index.html). The new entry should be added at the **top** of the list (right after `<ol class="talks">`).
 
 **Template for a YouTube video:**
 
@@ -32,7 +37,7 @@ Add a new `<li>` element inside the `<ol class="talks">` list. The new entry sho
 
 ## 2. Update `atom.xml`
 
-Add a new `<entry>` block to the Atom feed. The new entry should be placed at the **top** of the feed entries, immediately preceding the existing `<entry>` tags. Also, remember to update the `<updated>` timestamp of the main feed.
+Add a new `<entry>` block to the Atom feed in [atom.xml](../../../atom.xml). The new entry should be placed at the **top** of the feed entries, immediately preceding the existing `<entry>` tags. Also, remember to update the `<updated>` timestamp of the main feed.
 
 **Template for the entry:**
 
