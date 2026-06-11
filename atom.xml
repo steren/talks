@@ -11,7 +11,15 @@
     <uri>https://steren.fr</uri>
   </author>
   <icon>/icon.svg</icon>
-  <updated>2026-04-22T00:00:00Z</updated>
+  <updated>2026-06-11T00:00:00Z</updated>
+
+  <entry>
+    <id>https://www.youtube.com/watch?v=spjnxvahOJU</id>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=spjnxvahOJU" />
+    <title>Steren Giannini on Google Cloud Run: Past, Present &amp; Future</title>
+    <updated>2026-06-11T00:00:00Z</updated>
+    <summary>RedMonk</summary>
+  </entry>
 
   <entry>
     <id>https://www.youtube.com/watch?v=AoisAy_LGpI</id>
