@@ -11,7 +11,15 @@
     <uri>https://steren.fr</uri>
   </author>
   <icon>/icon.svg</icon>
-  <updated>2026-06-11T00:00:00Z</updated>
+  <updated>2026-07-09T00:00:00Z</updated>
+
+  <entry>
+    <id>https://www.wearedevelopers.com/videos/100142-a-computer-is-all-you-need</id>
+    <link rel="alternate" href="https://www.wearedevelopers.com/videos/100142-a-computer-is-all-you-need" />
+    <title>A Computer Is All You Need</title>
+    <updated>2026-07-09T00:00:00Z</updated>
+    <summary>WeAreDevelopers World Congress 2026</summary>
+  </entry>
 
   <entry>
     <id>https://www.youtube.com/watch?v=spjnxvahOJU</id>
@@ -78,8 +86,8 @@
   </entry>
 
   <entry>
-    <id>https://www.youtube.com/watch?v=yTYDR1fRUhI&t=2480</id>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=yTYDR1fRUhI&t=2480" />
+    <id>https://www.youtube.com/watch?v=yTYDR1fRUhI&amp;t=2480</id>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=yTYDR1fRUhI&amp;t=2480" />
     <title>Developer Keynote</title>
     <updated>2022-05-11T00:00:00Z</updated>
     <summary>Cloud Next 2022</summary>
